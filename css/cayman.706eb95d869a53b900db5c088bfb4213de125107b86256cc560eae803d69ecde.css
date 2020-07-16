@@ -4,13 +4,13 @@
 body {
   padding: 0;
   margin: 0;
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  color: #606c71; }
+  color: #0e0e0d; }
 
 a {
-  color: #1e6bb8;
+  color: #ff7145;
   text-decoration: none; }
   a:hover {
     text-decoration: underline; }
@@ -46,8 +46,8 @@ a {
 .page-header {
   color: #fff;
   text-align: center;
-  background-color: #159957;
-  background-image: linear-gradient(120deg, #155799, #159957); }
+  background-color: #65665c;
+  background-image: linear-gradient(120deg, #65665c, #65665c); }
   @media screen and (min-width: 64em) {
     .page-header {
       padding: 5rem 6rem; } }
@@ -111,7 +111,7 @@ a {
     margin-top: 2rem;
     margin-bottom: 1rem;
     font-weight: normal;
-    color: #159957; }
+    color: #0e0e0d; }
   .main-content p {
     margin-bottom: 1em; }
   .main-content code {
@@ -129,7 +129,7 @@ a {
     color: #567482;
     word-wrap: normal;
     background-color: #f3f6fa;
-    border: solid 1px #dce6f0;
+    border: solid 1px #333330;
     border-radius: 0.3rem; }
     .main-content pre > code {
       padding: 0;
@@ -174,8 +174,8 @@ a {
   .main-content blockquote {
     padding: 0 1rem;
     margin-left: 0;
-    color: #819198;
-    border-left: 0.3rem solid #dce6f0; }
+    color: #65665c;
+    border-left: 0.3rem solid #333330; }
     .main-content blockquote > :first-child {
       margin-top: 0; }
     .main-content blockquote > :last-child {
@@ -192,7 +192,7 @@ a {
     .main-content table th,
     .main-content table td {
       padding: 0.5rem 1rem;
-      border: 1px solid #e9ebec; }
+      border: 1px solid #333330; }
   .main-content dl {
     padding: 0; }
     .main-content dl dt {
@@ -207,13 +207,13 @@ a {
     height: 2px;
     padding: 0;
     margin: 1rem 0;
-    background-color: #eff0f1;
+    background-color: #e7e8e6;
     border: 0; }
 
 .site-footer {
   padding-top: 2rem;
   margin-top: 2rem;
-  border-top: solid 1px #eff0f1; }
+  border-top: solid 1px #e7e8e6; }
   @media screen and (min-width: 64em) {
     .site-footer {
       font-size: 1rem; } }
@@ -228,4 +228,4 @@ a {
   font-weight: bold; }
 
 .site-footer-credits {
-  color: #819198; }
+  color: #65665c; }
