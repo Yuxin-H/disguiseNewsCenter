@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on disguise 用户中心</title>
+    <title>Tags on disguise 资讯中心</title>
     <link>/tags.html</link>
-    <description>Recent content in Tags on disguise 用户中心</description>
+    <description>Recent content in Tags on disguise 资讯中心</description>
     <generator>Hugo -- gohugo.io</generator>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
