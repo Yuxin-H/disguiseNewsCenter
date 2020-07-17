@@ -1,6 +1,9 @@
 * {
   box-sizing: border-box; }
 
+html {
+  background-color: #e7e8e6; }
+
 body {
   padding: 0;
   margin: 0;
@@ -13,6 +16,7 @@ a {
   color: #ff7145;
   text-decoration: none; }
   a:hover {
+    color: #ff7145;
     text-decoration: underline; }
 
 .btn {

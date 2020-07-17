@@ -3,19 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/categories.html</loc>
-  </url>
-  
-  <url>
     <loc>/points.html</loc>
   </url>
   
   <url>
     <loc>/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags.html</loc>
   </url>
   
 </urlset>
